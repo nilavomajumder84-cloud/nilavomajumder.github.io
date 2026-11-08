@@ -1,0 +1,9 @@
+title: "Nilavo Majumder"
+description: "BTech CSE student | Personal portfolio"
+url: "https://YOUR_GITHUB_USERNAME.github.io"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
